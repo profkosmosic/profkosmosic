@@ -3,7 +3,7 @@
 - 💻 I design and develop websites and web apps.
 
 # My stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=profkosmosic&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=profkosmosic&layout=compact&hide=shader"/>
 
 # Stuff I know
 ## Game Development
