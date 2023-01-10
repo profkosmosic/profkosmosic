@@ -3,8 +3,6 @@
 - 💻 I design and develop websites and web apps.
 - 📱 I develop mobile apps.
 
-# My stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=profkosmosic&layout=compact&hide=shader"/>
 
 # Languages/Tools I use
 ## Game and Software Development
