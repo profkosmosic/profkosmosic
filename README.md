@@ -14,8 +14,3 @@
 
 ## Mobile Development
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-
-# My personal projects
-- <a href="https://proflm.itch.io/" target="_blank">My itch.io</a>
-- <a href="https://play.google.com/store/apps/developer?id=profkosmosic" target="_blank">My Google Play</a>
